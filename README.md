@@ -12,6 +12,6 @@ I'm always interested in connecting with other developers and discussing new ide
 
 ### Check out my website 🌐
 
-If you'd like to learn more about me check out my [website](https://www.github.io/danetsao).
+If you'd like to learn more about me check out my [website](https://danetsao.github.io).
 
 Thanks for stopping by!
