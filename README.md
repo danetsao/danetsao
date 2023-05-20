@@ -1,10 +1,7 @@
-Hey there! 👋
-=============
-
 I'm Dane Tsao
 -------------
 
-I'm a computer science student at University of Alabama.
+I'm a computer science student.
 
 ### Let's connect 🤝
 
